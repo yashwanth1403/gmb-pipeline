@@ -1,0 +1,91 @@
+# =================================================================
+# GMB Pipeline — .gitignore
+# =================================================================
+# Keep this repo clean: no secrets, no build artifacts, no node_modules,
+# no venv, no per-lead build outputs. Code, configs, templates, scripts
+# only — anything reproducible should be regenerated from code.
+
+# ---------- Secrets (NEVER commit) ----------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+**/auth_info/
+**/creds.json
+**/session-*.json
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+pip-wheel-metadata/
+
+# ---------- Node / Vite / Netlify ----------
+node_modules/
+.vite/
+dist/
+.netlify/
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.output/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---------- Pipeline outputs (regeneratable) ----------
+# Per-lead scraped data, queue state, run logs, built-site registry,
+# and all React build outputs.
+data/leads.json
+data/queue.json
+data/built_sites.json
+logs/
+deploy/sites/
+
+# Agent 2 working copies (per-lead React project clones)
+site_builder_workdir/
+!site_builder_workdir/.gitkeep
+
+# ---------- OS / Editor ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---------- Temporary / scratch ----------
+*.tmp
+*.bak
+*.orig
+*.rej
+.tmp/
+tmp/
+
+# ---------- Large / binary data ----------
+# (we keep .json configs and small text data; binary blobs don't belong here)
+*.zip
+*.tar.gz
+*.7z
+*.rar
+*.pdf
+!docs/*.pdf
