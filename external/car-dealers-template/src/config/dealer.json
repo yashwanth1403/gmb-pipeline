@@ -1,0 +1,114 @@
+{
+  "name": "Ur.Car",
+  "city": "Hyderabad",
+  "logoPath": "",
+  "emblemPath": "/logos/ur-car.svg",
+  "contact": {
+    "phone": "9849010333",
+    "phoneFormatted": "+91 98490 10333",
+    "email": "",
+    "address": "500033, Andra Basti, Guttala_Begumpet, Hyderabad, Telangana 500081, India",
+    "mapsUrl": "https://www.google.com/maps/place/?q=place_id:ChIJ3-j10VyRyzsRFYRPObFMKZQ",
+    "mapsEmbedUrl": "https://maps.google.com/maps?q=17.442210799999998,78.39540439999999&z=15&output=embed",
+    "instagram": ""
+  },
+  "hours": [
+    {
+      "days": "Thu",
+      "hours": "9 AM–9 PM"
+    },
+    {
+      "days": "Fri",
+      "hours": "9 AM–9 PM"
+    },
+    {
+      "days": "Sat",
+      "hours": "9 AM–9 PM"
+    },
+    {
+      "days": "Sun",
+      "hours": "9 AM–9 PM"
+    },
+    {
+      "days": "Mon",
+      "hours": "9 AM–9 PM"
+    },
+    {
+      "days": "Tue",
+      "hours": "9 AM–9 PM"
+    },
+    {
+      "days": "Wed",
+      "hours": "9 AM–9 PM"
+    }
+  ],
+  "hero": {
+    "headline": "Trusted used cars in Hyderabad",
+    "subheadline": "Quality used cars in Hyderabad, backed by 471+ reviews",
+    "backgroundDesktop": "/hero-bg.jpg",
+    "backgroundMobile": "/hero-bg.jpg"
+  },
+  "story": {
+    "headline": "Born to make car buying simple in Hyderabad",
+    "paragraphs": [
+      "At Ur.Car, we understand how important it is to find a reliable vehicle. Our team is dedicated to providing quality used cars in Hyderabad, rated 3.9 stars from 471 reviews.",
+      "We buy used goods and offer delivery services to make your experience as smooth as possible. We are here to help you every step of the way."
+    ]
+  },
+  "stats": [
+    {
+      "metric": "471+",
+      "label": "Happy Customers",
+      "desc": "Verified Google reviews"
+    },
+    {
+      "metric": "3.9★",
+      "label": "Trusted Hyderabad Dealer",
+      "desc": "Consistently rated by customers"
+    },
+    {
+      "metric": "2 Days",
+      "label": "Avg. Loan Approval",
+      "desc": "Quick approvals via partner banks"
+    },
+    {
+      "metric": "10+",
+      "label": "Cars Available",
+      "desc": "Fresh inventory every week"
+    }
+  ],
+  "rating": {
+    "score": 3.9,
+    "outOf": 5,
+    "totalCustomers": "471+",
+    "tagline": "Trusted by Hyderabad car buyers"
+  },
+  "featuredCarIds": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "galleryImages": [
+    {
+      "src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFj4GdwazyU_9nAvQfMfaAP7oNb5vTtCHwzIyWBV2MBDWXVirHxz_f9P0V5ylx3J8fp9SjYZ5z66K7IOfIz5zVmbFePxyi4gkGSu5hE1BHHUtBRBb4n5la-Cf_ihuHo61HhcgDKbExN_LaB=w1000-h1000-c-n",
+      "alt": "Ur.Car All"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGQv0Xsync6qtDLAOQS9UHEkAGjoczVvkaU0os2gMGSIgTWBK_IceRaSg-wXlFI7aILE1YxRhFAL-rJDZJnneyhd7pM=w1000-h1000-c-n",
+      "alt": "Ur.Car Latest"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEaYfWk48SvnW-krjTP_IVHMhPl24HeEH34GVLS7H7vPUyEO7VbAw0NuE6IJBqvWM74R2PYBd0NHoFcfoUmxEyMeTgywc6yNNiPgvUY9ukqQy2ex5Bpa9_INrsBm6x6AZtU5M3z=w1000-h1000-c-n",
+      "alt": "Ur.Car Inside"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1rtWkE2chW3_hW-bXZHVORw26lwSz_eICVPUkUw1-bu48QIEV-YUjFevUECV6m21jAnv7jSBugrUZCPHCXYQa9uIiUF76VDv2FOSmLy4rvowtVSAmBuWUIXo9CFFEA9nKNKemmA9sbnE=w1000-h1000-c-n",
+      "alt": "Ur.Car Car dealership"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjOxhHrrvpu_P-3M4lZLT14je1G1mJLTmyt2IELdzm4nwcjpD1ACn8BfpSegrEOfETzHgoBxUHo6stKon-xsO8zoqmcKHX3wboXnpJBk515Dpy__vkh_VkJ6zJBDXMHoTY-dfucLByvZYr=w1000-h1000-c-n",
+      "alt": "Ur.Car By owner"
+    }
+  ]
+}

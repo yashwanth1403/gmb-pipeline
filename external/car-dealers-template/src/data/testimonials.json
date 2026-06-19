@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Google Reviewer",
+    "location": "Hyderabad",
+    "review": "Nice cars and all variety with genuine condition. Customer Service also very good",
+    "car": "Verified Purchase",
+    "rating": 5
+  },
+  {
+    "name": "Google Reviewer",
+    "location": "Hyderabad",
+    "review": "Received a very positive response from staff. Overall great experience",
+    "car": "Verified Purchase",
+    "rating": 5
+  },
+  {
+    "name": "Google Reviewer",
+    "location": "Hyderabad",
+    "review": "Nice place superb collection of cars. Prices are a little high.",
+    "car": "Verified Purchase",
+    "rating": 5
+  }
+]

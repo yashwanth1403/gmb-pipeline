@@ -1,0 +1,67 @@
+{
+  "lead_id": "ChIJ3-j10VyRyzsRFYRPObFMKZQ",
+  "place_id": "ChIJ3-j10VyRyzsRFYRPObFMKZQ",
+  "source": "serpapi",
+  "scraped_at": "2026-06-18T02:29:56.279494+00:00",
+  "business": {
+    "name": "Ur.Car",
+    "category": "Used car dealer",
+    "address": "500033, Andra Basti, Guttala_Begumpet, Hyderabad, Telangana 500081, India",
+    "phone": "+91 98490 10333",
+    "rating": 3.9,
+    "review_count": 471,
+    "hours": [
+      {"thursday": "9 AM–9 PM"},
+      {"friday": "9 AM–9 PM"},
+      {"saturday": "9 AM–9 PM"},
+      {"sunday": "9 AM–9 PM"},
+      {"monday": "9 AM–9 PM"},
+      {"tuesday": "9 AM–9 PM"},
+      {"wednesday": "9 AM–9 PM"}
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHWfutfD6OIElrJmai1gOv_vWxb2eGvw2TRxCELPESfgVwCpwvD9_GeRn64AB2U-xlAYgQuuLS-O2xU-GNP9ybu9c342Axv6SbfzDaOUXrHKnp2Z0P5Awz-4t55kcDVcRtswJs=w1000-h1000-c-n",
+    "lat": 17.442210799999998,
+    "lng": 78.39540439999999,
+    "website": null,
+    "has_website": false,
+    "place_id": "ChIJ3-j10VyRyzsRFYRPObFMKZQ",
+    "gbp_link": "https://www.google.com/maps/place/?q=place_id:ChIJ3-j10VyRyzsRFYRPObFMKZQ",
+    "all_types": ["Used car dealer"],
+    "type_ids": ["used_car_dealer"],
+    "business_kind": "used_car_dealer",
+    "country": "India",
+    "plus_code": "C9RW+V5 Hyderabad, Telangana, India",
+    "rating_summary": [
+      {"stars": 1, "amount": 81},
+      {"stars": 2, "amount": 15},
+      {"stars": 3, "amount": 42},
+      {"stars": 4, "amount": 65},
+      {"stars": 5, "amount": 268}
+    ],
+    "open_state": "Closed · Opens 9 AM",
+    "photo_gallery": [
+      {"category": "All", "last_updated": null, "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFj4GdwazyU_9nAvQfMfaAP7oNb5vTtCHwzIyWBV2MBDWXVirHxz_f9P0V5ylx3J8fp9SjYZ5z66K7IOfIz5zVmbFePxyi4gkGSu5hE1BHHUtBRBb4n5la-Cf_ihuHo61HhcgDKbExN_LaB=w1000-h1000-c-n"},
+      {"category": "Latest", "last_updated": "5 days ago", "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGQv0Xsync6qtDLAOQS9UHEkAGjoczVvkaU0os2gMGSIgTWBK_IceRaSg-wXlFI7aILE1YxRhFAL-rJDZJnneyhd7pM=w1000-h1000-c-n"},
+      {"category": "Inside", "last_updated": null, "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEaYfWk48SvnW-krjTP_IVHMhPl24HeEH34GVLS7H7vPUyEO7VbAw0NuE6IJBqvWM74R2PYBd0NHoFcfoUmxEyMeTgywc6yNNiPgvUY9ukqQy2ex5Bpa9_INrsBm6x6AZtU5M3z=w1000-h1000-c-n"},
+      {"category": "Car dealership", "last_updated": null, "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAG1rtWkE2chW3_hW-bXZHVORw26lwSz_eICVPUkUw1-bu48QIEV-YUjFevUECV6m21jAnv7jSBugrUZCPHCXYQa9uIiUF76VDv2FOSmLy4rvowtVSAmBuWUIXo9CFFEA9nKNKemmA9sbnE=w1000-h1000-c-n"},
+      {"category": "By owner", "last_updated": null, "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEjOxhHrrvpu_P-3M4lZLT14je1G1mJLTmyt2IELdzm4nwcjpD1ACn8BfpSegrEOfETzHgoBxUHo6stKon-xsO8zoqmcKHX3wboXnpJBk515Dpy__vkh_VkJ6zJBDXMHoTY-dfucLByvZYr=w1000-h1000-c-n"}
+    ],
+    "photo_latest": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEGQv0Xsync6qtDLAOQS9UHEkAGjoczVvkaU0os2gMGSIgTWBK_IceRaSg-wXlFI7aILE1YxRhFAL-rJDZJnneyhd7pM=w1000-h1000-c-n",
+    "photo_inside": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEaYfWk48SvnW-krjTP_IVHMhPl24HeEH34GVLS7H7vPUyEO7VbAw0NuE6IJBqvWM74R2PYBd0NHoFcfoUmxEyMeTgywc6yNNiPgvUY9ukqQy2ex5Bpa9_INrsBm6x6AZtU5M3z=w1000-h1000-c-n",
+    "photo_exterior": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFj4GdwazyU_9nAvQfMfaAP7oNb5vTtCHwzIyWBV2MBDWXVirHxz_f9P0V5ylx3J8fp9SjYZ5z66K7IOfIz5zVmbFePxyi4gkGSu5hE1BHHUtBRBb4n5la-Cf_ihuHo61HhcgDKbExN_LaB=w1000-h1000-c-n",
+    "photo_count": 7,
+    "service_options": {"delivery": true},
+    "services": ["Delivery"],
+    "offerings": ["Buys used goods", "Used goods"],
+    "payments": ["Credit cards", "Debit cards", "NFC mobile payments"],
+    "review_snippets": [
+      {"snippet": "Nice cars and all variety with genuine condition. Customer Service also very good"},
+      {"snippet": "Received a very positive response from staff. Overall great experience"},
+      {"snippet": "Nice place superb collection of cars. Prices are a little high."}
+    ],
+    "competitors": ["Dr.Car", "i Cars Madhapur", "Value car mart", "Premium Pre Owned Cars", "The car choice"],
+    "enriched_at": "2026-06-18T02:30:05.866087+00:00"
+  },
+  "status": "scraped",
+  "attempts": {"scrape": 1, "build": 0, "outreach": 0}
+}

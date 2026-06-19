@@ -1,0 +1,115 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Shree Vaishnavi Cars – Design System
+   All colors MUST be HSL.
+   Primary:   Deep Blue  hsl(220, 85%, 20%)
+   Secondary: Orange     hsl(25, 95%, 53%)
+   Neutral bg: Light gray hsl(210, 20%, 97%)
+   Text:       Dark gray  hsl(215, 25%, 15%)
+   Spacing: 8px scale | Max width: 1200px | Mobile padding: 16px
+*/
+
+@layer base {
+  :root {
+    /* Brand */
+    --brand-gold:             43 74% 49%;
+    --logo-blue:              212 100% 44%;
+    --logo-blue-light:        212 94% 68%;
+    --logo-blue-lighter:      212 85% 88%;
+    --brand-primary:          220 85% 20%;
+    --brand-primary-light:    220 70% 30%;
+    --brand-primary-dark:     220 90% 12%;
+    --brand-secondary:        25 95% 53%;
+    --brand-secondary-dark:   25 90% 43%;
+
+    /* Surfaces */
+    --background:             0 0% 100%;
+    --foreground:             215 25% 15%;
+    --card:                   0 0% 100%;
+    --card-foreground:        215 25% 15%;
+    --popover:                0 0% 100%;
+    --popover-foreground:     215 25% 15%;
+
+    /* Components */
+    --primary:                220 85% 20%;
+    --primary-foreground:     0 0% 100%;
+    --secondary:              25 95% 53%;
+    --secondary-foreground:   0 0% 100%;
+    --muted:                  210 15% 93%;
+    --muted-foreground:       215 15% 45%;
+    --accent:                 25 95% 53%;
+    --accent-foreground:      0 0% 100%;
+    --destructive:            0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    /* Borders / Inputs */
+    --border:                 214 20% 88%;
+    --input:                  214 20% 88%;
+    --ring:                   220 85% 20%;
+
+    --radius:                 0.5rem;
+
+    /* Navbar */
+    --navbar-transparent:     0 0% 0% / 0;
+    --navbar-solid:           220 85% 20%;
+
+    /* Sidebar (keep for shadcn compatibility) */
+    --sidebar-background:     0 0% 98%;
+    --sidebar-foreground:     240 5.3% 26.1%;
+    --sidebar-primary:        240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent:         240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border:         220 13% 91%;
+    --sidebar-ring:           217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: hsl(var(--foreground));
+  }
+}
+
+/* WhatsApp pulse animation */
+@keyframes whatsapp-pulse {
+  0%   { box-shadow: 0 0 0 0 rgb(37 211 102 / 0.7); }
+  70%  { box-shadow: 0 0 0 12px rgb(37 211 102 / 0); }
+  100% { box-shadow: 0 0 0 0 rgb(37 211 102 / 0); }
+}
+
+.whatsapp-pulse {
+  animation: whatsapp-pulse 6s ease-out infinite;
+}
+
+/* Mobile menu slide-in */
+@keyframes slide-in-right {
+  from { transform: translateX(100%); }
+  to   { transform: translateX(0); }
+}
+
+@keyframes slide-out-right {
+  from { transform: translateX(0); }
+  to   { transform: translateX(100%); }
+}
+
+.menu-slide-in  { animation: slide-in-right 0.2s ease-out forwards; }
+.menu-slide-out { animation: slide-out-right 0.2s ease-in forwards; }
+
+/* Fade in */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1",
+    "name": "BMW 3 Series 330i",
+    "brand": "BMW",
+    "model": "3 Series",
+    "year": 2021,
+    "km": 28000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "price": 3850000,
+    "emi": 45000,
+    "image": "/images/BMW-3-Series/image1.jpg",
+    "images": [
+      "/images/BMW-3-Series/image1.jpg",
+      "/images/BMW-3-Series/image2.png",
+      "/images/BMW-3-Series/image3.png",
+      "/images/BMW-3-Series/image4.png"
+    ],
+    "owner": "1st",
+    "insurance": "Comprehensive (Valid till Dec 2025)",
+    "description": "Luxury sedan with premium comfort and performance. Single owner, full service history at BMW authorized workshop. Executive package with sunroof, leather seats and advanced driving assist."
+  },
+  {
+    "id": "2",
+    "name": "Maruti Swift ZXi",
+    "brand": "Maruti",
+    "model": "Swift ZXi",
+    "year": 2020,
+    "km": 42000,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "price": 620000,
+    "emi": 7200,
+    "image": "/images/Maruthi_Swift_vxi/image1.avif",
+    "images": [
+      "/images/Maruthi_Swift_vxi/image1.avif",
+      "/images/Maruthi_Swift_vxi/image2.png",
+      "/images/Maruthi_Swift_vxi/image3.png"
+    ],
+    "owner": "1st",
+    "insurance": "Third Party",
+    "description": "Well maintained hatchback with excellent fuel economy. Single owner, non-accidental. Ideal for city driving."
+  },
+  {
+    "id": "3",
+    "name": "Honda City VX CVT",
+    "brand": "Honda",
+    "model": "City VX",
+    "year": 2022,
+    "km": 18000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "price": 1150000,
+    "emi": 13500,
+    "image": "/images/Honda_City_ZX/image1.png",
+    "images": [
+      "/images/Honda_City_ZX/image1.png",
+      "/images/Honda_City_ZX/image2.jpg",
+      "/images/Honda_City_ZX/image3.png"
+    ],
+    "owner": "1st",
+    "insurance": "Comprehensive",
+    "description": "Like-new sedan with low mileage. CVT transmission for smooth drives. Premium interior and advanced features."
+  },
+  {
+    "id": "4",
+    "name": "Toyota Innova Crysta G",
+    "brand": "Toyota",
+    "model": "Innova Crysta",
+    "year": 2019,
+    "km": 65000,
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "price": 1650000,
+    "emi": 19000,
+    "image": "/images/Innova_Crysta/image1.png",
+    "images": [
+      "/images/Innova_Crysta/image1.png",
+      "/images/Innova_Crysta/image2.jpeg",
+      "/images/Innova_Crysta/image3.png",
+      "/images/Innova_Crysta/image4.png"
+    ],
+    "owner": "2nd",
+    "insurance": "Comprehensive",
+    "description": "Spacious MPV ideal for family. Toyota reliability with powerful diesel engine. Well serviced and maintained."
+  },
+  {
+    "id": "5",
+    "name": "Mercedes-Benz C 200",
+    "brand": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2022,
+    "km": 18000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "price": 4250000,
+    "emi": 49500,
+    "image": "/images/Mercedes_BenZ_C/image1.jpg",
+    "images": [
+      "/images/Mercedes_BenZ_C/image1.jpg",
+      "/images/Mercedes_BenZ_C/image2.png",
+      "/images/Mercedes_BenZ_C/image3.png"
+    ],
+    "owner": "1st",
+    "insurance": "Comprehensive",
+    "description": "Premium luxury sedan with impeccable build quality. Low mileage, AMG Line package. MBUX infotainment, panoramic sunroof and ambient lighting. Full Mercedes service history."
+  },
+  {
+    "id": "6",
+    "name": "Kia Seltos HTX G",
+    "brand": "Kia",
+    "model": "Seltos HTX",
+    "year": 2021,
+    "km": 35000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "price": 1280000,
+    "emi": 15000,
+    "image": "/images/Kia_Seltos_Hx/image1.jpg",
+    "images": [
+      "/images/Kia_Seltos_Hx/image1.jpg",
+      "/images/Kia_Seltos_Hx/image2.png",
+      "/images/Kia_Seltos_Hx/image3.png"
+    ],
+    "owner": "1st",
+    "insurance": "Comprehensive",
+    "description": "Feature-packed compact SUV with premium feel. Automatic transmission for hassle-free driving."
+  },
+  {
+    "id": "7",
+    "name": "Maruti Ertiga VDI",
+    "brand": "Maruti",
+    "model": "Ertiga VDI",
+    "year": 2020,
+    "km": 55000,
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "price": 870000,
+    "emi": 10200,
+    "image": "/images/Maruti Ertiga VDI.avif",
+    "images": [
+      "/images/Maruti Ertiga VDI.avif"
+    ],
+    "owner": "2nd",
+    "insurance": "Third Party",
+    "description": "Versatile 7-seater MPV. Diesel efficiency and spacious cabin. Perfect for family outings."
+  },
+  {
+    "id": "8",
+    "name": "Hyundai Creta SX",
+    "brand": "Hyundai",
+    "model": "Creta SX",
+    "year": 2023,
+    "km": 12000,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "price": 1540000,
+    "emi": 18000,
+    "image": "/images/Hyundai_Creta_SX/image1.jpg",
+    "images": [
+      "/images/Hyundai_Creta_SX/image1.jpg",
+      "/images/Hyundai_Creta_SX/image2.png",
+      "/images/Hyundai_Creta_SX/image3.png"
+    ],
+    "owner": "1st",
+    "insurance": "Comprehensive",
+    "description": "Nearly new compact SUV with minimal run. Top variant with all premium features. Warranty transferable."
+  }
+]

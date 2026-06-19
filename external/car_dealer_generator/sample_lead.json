@@ -1,0 +1,69 @@
+{
+  "place_id": "SAMPLE_LEAD_001",
+  "scraped_at": "2026-06-18T08:00:00Z",
+  "business": {
+    "name": "Sample Motors",
+    "category": "Used car dealer",
+    "business_kind": "used_car_dealer",
+    "address": "Sample Address, Madhapur, Hyderabad 500081",
+    "phone": "+91 98765 43210",
+    "country": "India",
+    "plus_code": "XXXX+XX Sample City",
+    "rating": 4.5,
+    "review_count": 250,
+    "rating_summary": [
+      {"stars": 5, "amount": 150},
+      {"stars": 4, "amount": 60},
+      {"stars": 3, "amount": 25},
+      {"stars": 2, "amount": 10},
+      {"stars": 1, "amount": 5}
+    ],
+    "hours": [
+      {"monday": "9 AM–8 PM"},
+      {"tuesday": "9 AM–8 PM"},
+      {"wednesday": "9 AM–8 PM"},
+      {"thursday": "9 AM–8 PM"},
+      {"friday": "9 AM–8 PM"},
+      {"saturday": "9 AM–8 PM"},
+      {"sunday": "10 AM–6 PM"}
+    ],
+    "open_state": "Open now",
+    "photo_exterior": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1600",
+    "photo_inside": "https://images.unsplash.com/photo-1562141961-b5d1de1f2844?w=1200",
+    "photo_latest": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=1200",
+    "photo_gallery": [
+      {"category": "exterior", "thumbnail": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=600"},
+      {"category": "interior", "thumbnail": "https://images.unsplash.com/photo-1562141961-b5d1de1f2844?w=600"},
+      {"category": "vehicles", "thumbnail": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600"},
+      {"category": "handover", "thumbnail": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=600"},
+      {"category": "showroom", "thumbnail": "https://images.unsplash.com/photo-1486006920555-c77dcf18193c?w=600"},
+      {"category": "vehicles", "thumbnail": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=600"}
+    ],
+    "services": ["Delivery", "In-store shopping"],
+    "offerings": ["Buys used goods", "Used goods"],
+    "payments": ["Credit cards", "Debit cards", "NFC mobile payments"],
+    "review_snippets": [
+      {"snippet": "Excellent service and great selection of vehicles."},
+      {"snippet": "Friendly staff, transparent pricing, no hidden fees."},
+      {"snippet": "Highly recommend to anyone looking for a quality used car."}
+    ],
+    "competitors": ["Competitor A", "Competitor B", "Competitor C"],
+    "lat": 17.442197,
+    "lng": 78.3955373,
+    "gbp_link": "https://www.google.com/maps/place/?q=place_id:SAMPLE_LEAD_001"
+  },
+  "llm": {
+    "tagline": "Trusted used cars in Madhapur, Hyderabad",
+    "about_us": "Sample Motors has served the Madhapur community for years with a wide selection of quality pre-owned vehicles. Every car on our lot is inspected before sale, so you can buy with confidence.\n\nWhether you need a daily commuter or a family SUV, we have options for every budget and every need. No pressure, no hidden fees — just honest deals.",
+    "why_choose_us": [
+      "250+ verified Google reviews from real customers",
+      "Free home delivery within 25 km of our showroom",
+      "We buy your old car — instant valuation, same-day payment",
+      "All payment modes accepted: cards, UPI, and finance"
+    ],
+    "hero_subhead": "Quality inspected used cars backed by 250+ five-star reviews",
+    "cta_text": "Book a Test Drive",
+    "meta_description": "Sample Motors — trusted used car dealer in Madhapur, Hyderabad. 250+ Google reviews, free delivery, all payment modes accepted. Browse our stock today.",
+    "og_image_alt": "Sample Motors car showroom in Madhapur, Hyderabad"
+  }
+}
